@@ -32,10 +32,9 @@ The Random Forest model performed effectively on the test dataset:
 
 ## 📂 Project Structure
 ```text
-├── data/
+├── dataset
 │   └── melb_data.csv        # Dataset (Source: Kaggle)
 ├── notebooks/
 │   └── price_prediction.ipynb # Model Training & Analysis
 ├── README.md                # Project Documentation
-└── requirements.txt         # Dependencies
 
